@@ -9,6 +9,6 @@ entries:
     name: chart-demo
     type: application
     urls:
-    - https://github.com/jiamengyu/itm-repo/chart-demo-0.1.0.tgz
+    - https://github.com/jiamengyu/chart-repo/chart-demo-0.1.0.tgz
     version: 0.1.0
 generated: "2020-10-27T10:41:42.0657529-04:00"
