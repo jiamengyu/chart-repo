@@ -3,12 +3,12 @@ entries:
   chart-demo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-10-27T11:05:41.164137-04:00"
+    created: "2020-10-27T11:34:43.7089571-04:00"
     description: A Helm chart for Kubernetes
     digest: 1fcb72991516cd732e1557abc675079f59926b413e9a2194de06eb8f0ea1477e
     name: chart-demo
     type: application
     urls:
-    - https://github.com/jiamengyu/helm-chart/helm-chart/chart-demo-0.1.0.tgz
+    - https://jiamengyu.github.io/helm-chart/chart-demo-0.1.0.tgz
     version: 0.1.0
-generated: "2020-10-27T11:05:41.1631404-04:00"
+generated: "2020-10-27T11:34:43.7079595-04:00"
