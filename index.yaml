@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chart-demo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-10-27T10:41:42.0667476-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 1fcb72991516cd732e1557abc675079f59926b413e9a2194de06eb8f0ea1477e
+    name: chart-demo
+    type: application
+    urls:
+    - https://github.com/jiamengyu/itm-repo/chart-demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-27T10:41:42.0657529-04:00"
