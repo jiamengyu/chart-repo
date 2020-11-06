@@ -1,2 +1,2 @@
-# chart-repo
-Repository for Helm Charts
+# helm-chart
+Repository for Helm Charts Demo
